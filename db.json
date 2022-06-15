@@ -60,5 +60,59 @@
       "name": "REDMI 10 (Midnight Black, 64 GB)",
       "price": "99999"
     }
+  ],
+   "news":
+  [
+    {
+      "thumbnail href": "https://www.ndtv.com/chandigarh-news/judges-daughter-arrested-in-7-year-old-chandigarh-murder-of-national-level-shooter-sippy-sidhu-3069509#pfrom=home-ndtv_topstories",
+      "image": "https://c.ndtvimg.com/2022-06/e47oe018_sippy-sidhu_120x90_15_June_22.jpg?downsize=105:79",
+      "item-title": "Judge's Daughter Arrested In Murder of National-Level Shooter Sippy Sidhu"
+    },
+    {
+      "thumbnail href": "https://www.ndtv.com/world-news/uae-to-suspend-exports-of-indian-wheat-for-4-months-report-3068622#pfrom=home-ndtv_topstories",
+      "image": "https://c.ndtvimg.com/2022-05/oodc6bf_wheat-generic-wheat-export-generic-reuters_120x90_17_May_22.jpg?downsize=105:79",
+      "item-title": "UAE To Suspend Exports Of Indian Wheat For 4 Months: Report"
+    },
+    {
+      "thumbnail href": "https://www.ndtv.com/india-news/pm-modi-to-meet-mother-on-saturday-as-she-starts-100th-year-3070445#pfrom=home-ndtv_topstories",
+      "image": "https://i.ndtvimg.com/i/2016-09/pm-modi-with-mother-heeraben_240x180_51474083822.jpg?downsize=105:79",
+      "item-title": "PM Modi To Meet Mother On Saturday As She Starts 100th Year"
+    },
+    {
+      "thumbnail href": "https://www.ndtv.com/world-news/a-major-crackdown-in-saudi-arabia-against-poisoned-message-toys-3069958#pfrom=home-ndtv_topstories",
+      "image": "https://c.ndtvimg.com/2020-06/03p376tg_saudi-arabia-generic-reuters-240_120x90_12_June_20.jpg?downsize=105:79",
+      "item-title": "A Major Crackdown In Saudi Arabia Against \"Poisoned Message\" Toys"
+    },
+    {
+      "thumbnail href": "https://www.ndtv.com/india-news/rajnath-singh-speaks-to-oppositions-mallikarjun-kharge-mamata-banerjee-akhilesh-yadav-on-presidential-elections-3069963#pfrom=home-ndtv_topstories",
+      "image": "https://c.ndtvimg.com/2022-06/0k9i8das_rajnath-singh-pti_120x90_14_June_22.jpg?downsize=105:79",
+      "item-title": "Rajnath Singh Speaks To Mamata Banerjee, Others On Presidential Poll"
+    },
+    {
+      "thumbnail href": "https://www.ndtv.com/world-news/how-a-major-mid-air-collision-was-avoided-over-turkey-on-monday-3069556#pfrom=home-ndtv_topstories",
+      "image": "https://c.ndtvimg.com/2018-10/epgbuhns_airport-generic-pixabay_120x90_04_October_18.jpg?downsize=105:79",
+      "item-title": "2 Planes Just 15 Miles Apart At 35,000 Feet- Major Collision Avoided"
+    },
+    {
+      "thumbnail href": "https://www.ndtv.com/world-news/johnny-depp-vs-amber-heard-amber-heard-says-she-still-loves-johnny-depp-and-realises-she-is-not-a-perfect-victim-3070303#pfrom=home-ndtv_topstories",
+      "image": "https://c.ndtvimg.com/2022-04/8d05qa8o_johnny-depp-vs-amber-heard_120x90_30_April_22.jpg?downsize=105:79",
+      "item-title": "Amber Heard Says She Still Has Love For Johnny Depp And \"No Bad Feelings"
+    },
+    {
+      "thumbnail href": "https://sports.ndtv.com/cricket/heres-how-the-world-test-championship-table-looks-after-englands-win-over-new-zealand-in-second-test-3069647#pfrom=home-ndtv_topstories",
+      "image": "https://c.ndtvimg.com/2022-06/9mcmhdh8_ben-stokes-jonny-bairstow-afp_625x300_15_June_22.jpg?downsize=105:79",
+      "item-title": "Here's What WTC Table Looks After England's Stunning Win In 2nd Test vs NZ"
+    },
+    {
+      "thumbnail href": "https://www.ndtv.com/india-news/ndtv-most-popular-for-news-in-india-reuters-institute-report-3070180#pfrom=home-ndtv_topstories",
+      "image": "https://c.ndtvimg.com/snqn8vwo5u8_ndtv-mics-camera-_120x90.jpg?downsize=105:79",
+      "item-title": "NDTV Most Popular For News In India: Reuters Institute Report"
+    },
+    {
+      "thumbnail href": "https://www.ndtv.com/business/bitcoin-rout-enters-deepest-and-darkest-phase-entire-market-underwater-3068212#pfrom=home-ndtv_topstories",
+      "image": "https://c.ndtvimg.com/2022-06/046ahji8_bloomberg-image_120x90_15_June_22.jpg?downsize=105:79",
+      "item-title": "Bitcoin Rout Enters Deepest And Darkest Phase; Entire Market Underwater"
+    }
   ]
+
 }
