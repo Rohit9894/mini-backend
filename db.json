@@ -717,7 +717,531 @@
       "trenz_share href 3": "https://api.whatsapp.com//send?text=Indian-Origin%20Doctor%20Jailed%20In%20UK%20For%20Raping%20Woman%20He%20Met%20On%20Tinder%20-%20NDTV-https%3A%2F%2Fwww.ndtv.com%2Findians-abroad%2Findian-origin-doctor-in-uk-jailed-for-raping-woman-he-met-on-tinder-3070519%23trendingnow",
       "views-no": "118 Reading"
     }
-  ]
+  ],
+  "article": [
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Matthew Luxmoore, Stacy Meichtry and Bojan Pancevski",
+    "title": "France, Germany, Italy, Romania Back Ukraine’s Bid for EU Membership - The Wall Street Journal",
+    "description": "The endorsement of the EU’s largest economies creates diplomatic momentum and sends a signal to Moscow that Ukraine’s economic future lies with Europe and the West.",
+    "url": "https://www.wsj.com/articles/european-leaders-arrive-in-ukraine-as-kyiv-renews-calls-for-more-military-support-11655367940",
+    "urlToImage": "https://images.wsj.net/im-565408/social",
+    "publishedAt": "2022-06-16T17:55:00Z",
+    "content": "<ul><li>The talks in Kyiv come a day after the U.S. announced it would send $1 billion in new military aid to Ukraine.</li><li>Ukrainian troops defending Severodonetsk are clinging on to a chemical p… [+964 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Elizabeth Wolfe, Jason Hanna, Claudia Dominguez",
+    "title": "Parts of Yellowstone may reopen to tourists on Monday, but flooding has been a disaster for neighboring towns - CNN",
+    "description": "Yellowstone National Park could partially reopen as early as Monday as officials continue to assess the damage caused by historic flooding, which now threatens to hamper the peak of the summer tourist season.",
+    "url": "https://www.cnn.com/2022/06/16/weather/yellowstone-national-park-flooding-closed-thursday/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220615192943-03-yellowstone-national-park-montana-flooding-wednesday.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-06-16T17:39:00Z",
+    "content": "Yellowstone National Park could partially reopen as early as Monday as officials continue to assess the damage caused by historic flooding, which now threatens to hamper the peak of the summer touris… [+7073 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Ash Parrish",
+    "title": "Overwatch 2 will get rid of loot boxes - The Verge",
+    "description": "During the Overwatch 2 reveal event, Blizzard stated that the controversial method by which to earn in-game items will be removed in favor of battle passes and an in-game shop.",
+    "url": "https://www.theverge.com/2022/6/16/23171133/overwatch-2-loot-boxes-free-to-play",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/h7Q1nMzRQOCXl_ytAqMR2tfvBJ0=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23632912/lootbox.png",
+    "publishedAt": "2022-06-16T17:23:15Z",
+    "content": "As the game transitions to a free-to-play, seasonal content model, the controversial loot award system will be replaced with an in-game shop\r\nActivision Blizzard\r\nIn Overwatch 2, loot boxes are no mo… [+3069 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Sonia Moghe, CNN",
+    "title": "Ghislaine Maxwell blames difficult childhood, asks for lighter sentence - CNN",
+    "description": "Lawyers for Ghislaine Maxwell have asked a judge to sentence her to a significantly lower sentence than recommended by the government, saying her difficult childhood made her vulnerable to Jeffrey Epstein and that she shouldn't face a harsh sentence because o…",
+    "url": "https://www.cnn.com/2022/06/16/us/ghislaine-maxwell-asks-for-lighter-sentence/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211208105737-02-ghislaine-maxwell-trial-jeffrey-epstein-super-tease.jpg",
+    "publishedAt": "2022-06-16T17:22:00Z",
+    "content": "(CNN)Lawyers for Ghislaine Maxwell have asked a judge to sentence her to a significantly lower sentence than recommended by the government, saying her difficult childhood made her vulnerable to Jeffr… [+3001 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Anders Hagstrom",
+    "title": "Exercise pill? Researchers identify molecule in blood produced during workout - Fox News",
+    "description": "Researchers at Stanford and Baylor say they have identified a molecule produced during exercise that can help regulate appetite and reduce obesity.",
+    "url": "https://www.foxnews.com/health/exercise-pill-researchers-identify-molecule-blood-produced-workout",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/Gym-Exercise.jpg",
+    "publishedAt": "2022-06-16T17:10:24Z",
+    "content": "Researchers at Baylor and Stanford Universities say they have reached an important step toward condensing some of the benefits of exercise into a simple pill.\r\nThe researchers, Baylor Professor of Pe… [+1819 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Lamar Jackson, Rashod Bateman Ravens Minicamp Media Availability | Baltimore Ravens - Baltimore Ravens",
+    "description": "Lamar Jackson gives his reason for not being at OTAs, talks about his offseason training and gives an update on his thoughts regarding a new contract.#Baltim...",
+    "url": "https://www.youtube.com/watch?v=ct6uNT3UIhE",
+    "urlToImage": "https://i.ytimg.com/vi/ct6uNT3UIhE/maxresdefault.jpg",
+    "publishedAt": "2022-06-16T17:05:55Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "MLB Mock Draft 2022: Jackson Holliday, Druw Jones go 1-2; no pitcher taken until No. 13; Mets primed to spend - CBS Sports",
+    "description": "The MLB Draft is just about a month away; what player will your favorite team draft?",
+    "url": "https://www.cbssports.com/mlb/news/mlb-mock-draft-2022-jackson-holliday-druw-jones-go-1-2-no-pitcher-taken-until-no-13-mets-primed-to-spend/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/06/15/1e59ce12-d895-4d45-9737-09e01bf2de63/thumbnail/1200x675/a8cd3eb18430762ea7b9984d2fb86bed/mlb-draft-general-7.png",
+    "publishedAt": "2022-06-16T16:59:37Z",
+    "content": "The 2022 MLB Draft is a little more than four weeks away. Last year MLB pushed the draft back to the All-Star break in an effort to better market the event, and that will be the norm moving forward e… [+3857 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Daily News"
+    },
+    "author": "Clayton Guse, Thomas Tracy",
+    "title": "Man exiting NYC subway dragged to death after pants are caught in Q train door - New York Daily News",
+    "description": "The 37-year-old victim was exiting a Q train at the Avenue M station in Midwood about 11:50 p.m. Wednesday when his pants — and possibly his foot — got stuck in the train door, cops said.",
+    "url": "https://www.nydailynews.com/new-york/nyc-crime/ny-man-dragged-subway-q-train-brooklyn-pants-door-20220616-q3yww37h2zhphavqgco3zixxum-story.html",
+    "urlToImage": "https://www.nydailynews.com/resizer/VSHYJJgP-tetyPm7HFHdMXxz30s=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/474HPI7Q7VBIVKNOKAT2UY3ZMU.JPG",
+    "publishedAt": "2022-06-16T16:50:00Z",
+    "content": "A straphanger died Thursday after his pants got stuck in the door of a Brooklyn train, causing him to be dragged across the platform, police said.\r\nThe 37-year-old victim was exiting a Q train at the… [+1236 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "Patrick McDonald",
+    "title": "2022 U.S. Open leaderboard: Live coverage, golf scores today, updates from Round 1 at The Country Club - CBS Sports",
+    "description": "Live scores, updates and highlights from the first round of the 122nd U.S. Open",
+    "url": "https://www.cbssports.com/golf/news/2022-u-s-open-leaderboard-live-coverage-golf-scores-today-updates-from-round-1-at-the-country-club/live/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/06/16/a491799a-bc9b-483a-a5c9-028fd577f8ee/thumbnail/1200x675/e3cf5fa547a7bfa7e5e9c3b026a5d968/us-open-flags-2022-g.png",
+    "publishedAt": "2022-06-16T16:37:52Z",
+    "content": "The 122nd U.S. Open gets underway Thursday with the national championship taking place at one of the oldest golf courses in the United States. The Country Club in Brookline, Massachusetts, received t… [+1033 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Ali Zaslav and Jessica Dean, CNN",
+    "title": "Senate passes historic bill to help veterans exposed to burn pits during military service - CNN",
+    "description": "The Senate on Thursday passed historic legislation that would help millions of veterans who were exposed to toxic burn pits during their military service.",
+    "url": "https://www.cnn.com/2022/06/16/politics/senate-vote-burn-pits-veterans/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210621010655-02-afghanistan-burn-pits-file-super-tease.jpg",
+    "publishedAt": "2022-06-16T16:36:00Z",
+    "content": "(CNN)The Senate on Thursday passed historic legislation that would help millions of veterans who were exposed to toxic burn pits during their military service.\r\nA wide bipartisan majority approved th… [+5228 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MarketWatch"
+    },
+    "author": "Tonya Garcia",
+    "title": "Amazon Prime Day will be huge for deal seekers hoping to score a discount amid soaring inflation - MarketWatch",
+    "description": "Amazon announced that this year’s Prime Day will take place July 12 and July 13",
+    "url": "https://www.marketwatch.com/story/amazon-prime-day-will-be-huge-for-deal-seekers-hoping-to-score-a-discount-amid-soaring-inflation-11655391628",
+    "urlToImage": "https://images.mktw.net/im-421137/social",
+    "publishedAt": "2022-06-16T16:14:00Z",
+    "content": "Amazon.com Inc.s Prime Day shopping bonanza will arrive this year at a good time for bargain-hunting shoppers trying to save money amid soaring inflation.The e-commerce giant \r\n AMZN,\r\n -4.99%\r\nannou… [+3080 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Holly Ellyatt",
+    "title": "European leaders visit Kyiv for talks on weapons, EU membership; UK announces new sanctions on Russia - CNBC",
+    "description": "A trio of European leaders has arrived in Kyiv for talks while Russian forces are using \"all available firepower\" to pound the key target of Severodonetsk.",
+    "url": "https://www.cnbc.com/2022/06/16/russia-ukraine-live-updates.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107076919-16553872072022-06-16t134114z_2037651866_rc2xsu9dxyel_rtrmadp_0_ukraine-crisis-eu-leaders.jpeg?v=1655387233&w=1920&h=1080",
+    "publishedAt": "2022-06-16T16:01:00Z",
+    "content": "Ukrainian President Volodymyr Zelenskyy has said he is grateful for a new $1 billion support package including coastal defense, artillery and modern rocket systems as Russia presses home its advantag… [+920 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Sam Goldfarb, Will Horner, Dan Molinski, Orla McCaffrey, Jessica Fleetham, Bryan Mena, Akane Otani",
+    "title": "Stock Market News Live Updates: Dow Drops 800 Points as Post-Fed Rally Fades - The Wall Street Journal",
+    "description": "Full coverage of markets, a day after the Federal Reserve approved its biggest interest-rate increase since 1994.",
+    "url": "https://www.wsj.com/livecoverage/stock-markets-today-fed-rates-06-16-2022",
+    "urlToImage": "https://images.wsj.net/im-565403/social",
+    "publishedAt": "2022-06-16T15:49:00Z",
+    "content": "Investors dumped U.S. government bonds overnight but are now piling back in as they look to shelter from a sharp decline in stock prices.\r\nIn recent trading, the yield on the benchmark 10-year U.S. T… [+1121 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Katie Campione",
+    "title": "Trevor Noah Blames Ripleys for Loaning Out the Marilyn Monroe Dress That Kim Kardashian Ruined (Video) - Yahoo Entertainment",
+    "description": "\"If they told her it was okay to wear it, that's on them,\" he argued",
+    "url": "https://www.yahoo.com/entertainment/trevor-noah-blames-ripleys-loaning-154616099.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/NqMYvCUkm9Yayr9oQDOvmw--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thewrap.com/2ac8991e4b0da15cd11f383b9109bb8a",
+    "publishedAt": "2022-06-16T15:46:16Z",
+    "content": "Trevor Noah thinks that Ripley’s needs to shoulder at least some of the blame for the significant damage done to the Marilyn Monroe dress that Kim Kardashian wore to the Met Gala, considering they ga… [+2199 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Christine Hauser",
+    "title": "Abbott Baby Formula Plant Again Stops Production, This Time Because of Flooding - The New York Times",
+    "description": "Severe storms flooded parts of the facility in Sturgis, Mich., which went offline in February over contamination concerns, exacerbating a nationwide formula shortage.",
+    "url": "https://www.nytimes.com/2022/06/16/us/abbott-baby-formula-plant-storms.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/06/16/us/16xp-abbott1/16xp-abbott1-facebookJumbo.jpg",
+    "publishedAt": "2022-06-16T15:45:09Z",
+    "content": "The storm disrupted power and caused wind damage, and the citys municipal airport recorded 1.5 inches of rain, the Sturgis Journal reported.\r\nThe stoppage at the plant was the latest twist in the bab… [+2817 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Bart Jansen, Chelsey Cox and Erin Mansfield, USA TODAY",
+    "title": "Jan 6 live updates: Pence's role thwarting Trump takes center stage - USA TODAY",
+    "description": "The Jan. 6 hearing Thursday will focus on Mike Pence's key role in refusing to carry out Donald Trump's plan to overturn the 2020 election.",
+    "url": "https://www.usatoday.com/story/news/politics/2022/06/16/jan-6-live-updates-trump-pressure-pence/7623118001/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2022/06/14/USAT/0688ff98-654a-4183-a17a-f56abd85b759-AP_Capitol_Riot_Investigation_3.jpg?auto=webp&crop=5245,2951,x0,y0&format=pjpg&width=1200",
+    "publishedAt": "2022-06-16T15:45:00Z",
+    "content": "WASHINGTON – Former Vice President Mike Pence's refusal to single-handedly reject electoral votes on Jan. 6, 2021, as former President Donald Trump pressured him to do, will be the subject of the Thu… [+7943 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "ABC News",
+    "title": "Revlon, beauty icon in crowded market, files for bankruptcy - ABC News",
+    "description": "Revlon, a cosmetics maker that broke racial barriers and dictated beauty trends for much of the last century, is filing for Chapter 11 bankruptcy protection",
+    "url": "https://abcnews.go.com/Business/wireStory/revlon-files-bankruptcy-protection-amid-heavy-debt-load-85433642",
+    "urlToImage": "https://s.abcnews.com/images/US/WireAP_792f07685824444fb05a50ad8565295f_16x9_992.jpg",
+    "publishedAt": "2022-06-16T15:45:00Z",
+    "content": "NEW YORK -- Revlon, a cosmetics maker that broke racial barriers and dictated beauty trends for much of the last century, has filed for Chapter 11 bankruptcy protection.\r\nThe company has been a mains… [+3509 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Variety"
+    },
+    "author": "Zack Sharf",
+    "title": "Juror Reveals Why Amber Heard Lost to Johnny Depp: She Had ‘Crocodile Tears’ and Made Us ‘Uncomfortable’ - Variety",
+    "description": "A juror from the Johnny Depp-Amber Heard defamation trial spoke exclusively to “Good Morning America” about the trial verdict, which ruled that Heard defamed Depp when she wrote a 2018 Washington Post op-ed alluding to her past claims of domestic violence. He…",
+    "url": "https://variety.com/2022/film/news/amber-heard-lost-johnny-depp-trial-explained-juror-1235296260/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2022/06/AP22152762396252-1.jpg?w=1024",
+    "publishedAt": "2022-06-16T15:42:00Z",
+    "content": "A juror from the Johnny Depp-Amber Heard defamation trial spoke exclusively to “Good Morning America” about the trial verdict, which ruled that Heard defamed Depp when she wrote a 2018 Washington Pos… [+2530 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "WHO Officials Say Monkeypox Outbreak Is 'Real Risk' To Public Health - NBC News",
+    "description": "World Health Organization officials say that if the monkeypox outbreak continues, the virus will get stronger in Europe, Australia and North America. As the ...",
+    "url": "https://www.youtube.com/watch?v=xiVT78lr6pY",
+    "urlToImage": "https://i.ytimg.com/vi/xiVT78lr6pY/hqdefault.jpg",
+    "publishedAt": "2022-06-16T15:30:12Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Chloe Melas, CNN",
+    "title": "Ana de Armas is uncanny as Marilyn Monroe in 'BLONDE' - CNN",
+    "description": "Ana de Armas is Marilyn Monroe.",
+    "url": "https://www.cnn.com/2022/06/16/entertainment/blonde-trailer-ana-de-armas/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220616102834-01-blonde-netflix-super-tease.jpg",
+    "publishedAt": "2022-06-16T15:18:00Z",
+    "content": null
+    }
+    ],
+    "news24": [
+      {
+      "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+      },
+      "author": "Karen Langley, Will Horner",
+      "title": "Dow Closes Below 30000 as Post-Fed Rally Reverses - The Wall Street Journal",
+      "description": "Nasdaq sheds 4.1% as rate-sensitive technology stocks lead losses",
+      "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-06-16-2022-11655364753",
+      "urlToImage": "https://images.wsj.net/im-565366/social",
+      "publishedAt": "2022-06-16T20:10:00Z",
+      "content": "U.S. stocks tumbled Thursday, with the Dow Jones Industrial Average closing below 30000 for the first time since January 2021 as volatility continued to rock the market.Major indexes have notched big… [+6134 chars]"
+      },
+      {
+      "source": {
+      "id": "reuters",
+      "name": "Reuters"
+      },
+      "author": null,
+      "title": "Protests against India's new military recruitment system turn violent - Reuters",
+      "description": "Police in northern India fired shots in the air on Thursday to push back stone-throwing crowds and authorities shut off mobile internet in at least one district to forestall further chaos, as protests widened against a new military recruitment system.",
+      "url": "https://www.reuters.com/world/india/protests-break-out-india-over-new-military-recruitment-system-2022-06-16/",
+      "urlToImage": "https://www.reuters.com/resizer/ayAW6Y6zq-xFh5scwszZUdAwD9c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4O7QLGL3WBMPPPKMFAPT2AEEWM.jpg",
+      "publishedAt": "2022-06-16T20:00:00Z",
+      "content": "LUCKNOW, India, June 16 (Reuters) - Police in northern India fired shots in the air on Thursday to push back stone-throwing crowds and authorities shut off mobile internet in at least one district to… [+3329 chars]"
+      },
+      {
+      "source": {
+      "id": "cnn",
+      "name": "CNN"
+      },
+      "author": "Benjamin Brown, Jorge Engels",
+      "title": "Alleged Russian spy attempted to infiltrate the International Criminal Court as an intern, say Dutch authorities - CNN",
+      "description": "Dutch authorities say they have thwarted an attempt by a Russian spy to gain access to the International Criminal Court (ICC) by posing as an intern.",
+      "url": "https://www.cnn.com/2022/06/16/europe/dutch-catch-russian-spy-icc-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220616145332-international-criminal-court-hague-file-2021.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-06-16T19:42:00Z",
+      "content": "Dutch authorities say they have thwarted an attempt by a Russian spy to gain access to the International Criminal Court (ICC) by posing as an intern.\r\nAccording to the Dutch General Intelligence and … [+2028 chars]"
+      },
+      {
+      "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+      },
+      "author": "Melissa Quinn, Kathryn Watson, Stefan Becket, Caitlin Yilek",
+      "title": "Pence aides detail Trump effort to overturn election results at Jan. 6 committee hearing - CBS News",
+      "description": "Lawmakers turned their focus to former President Donald Trump's campaign to pressure former Vice President Mike Pence to reject electoral votes at the third day of hearings.",
+      "url": "https://www.cbsnews.com/live-updates/house-january-6-committee-public-hearing-watch-live-stream-2022-06-16/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/06/16/b752eb52-5b5c-4e65-9ba3-75fd2272d95c/thumbnail/1200x630/8e4738f20b4b106fe51a96659440414b/gettyimages-1241347002.jpg",
+      "publishedAt": "2022-06-16T19:33:46Z",
+      "content": "Pence and Trump met one-on-one in the Oval Office on Jan. 5, during which the former president and his vice president had a disagreement about Pence's authority to declare Trump the winner of the ele… [+2338 chars]"
+      },
+      {
+      "source": {
+      "id": null,
+      "name": "YouTube"
+      },
+      "author": null,
+      "title": "Overwatch 2 - Official Junker Queen Cinematic Trailer | Summer of Gaming - IGN",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dj4tiMb8DVOQ",
+      "urlToImage": null,
+      "publishedAt": "2022-06-16T19:00:23Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more"
+      },
+      {
+      "source": {
+      "id": "politico",
+      "name": "Politico"
+      },
+      "author": null,
+      "title": "Jan. 6 panel leaders prepare to call Ginni Thomas - POLITICO",
+      "description": "Both Bennie Thompson and Liz Cheney, the select committee's chair and vice chair, agreed Thursday that it was time to bring the Supreme Court justice's wife in for questioning.",
+      "url": "https://www.politico.com/news/2022/06/16/jan-6-panel-leaders-prepare-to-call-ginni-thomas-00040208",
+      "urlToImage": "https://static.politico.com/f3/40/4596a2d34f64ba14b1c9cda9034e/https-delivery.gettyimages.com/downloads/1402034612",
+      "publishedAt": "2022-06-16T18:44:25Z",
+      "content": "An invitation to Thomas might come in the next few weeks, he added.\r\nThomas told the conservative-leaning Daily Caller later Thursday she was open to testifying. \r\nI cant wait to clear up misconcepti… [+2785 chars]"
+      },
+      {
+      "source": {
+      "id": null,
+      "name": "Www.geo.tv"
+      },
+      "author": "Web Desk",
+      "title": "Amber Heards interview adds to her worries - Geo News",
+      "description": "According to some legal experts, Amber Heard has invited more troubles with her interview",
+      "url": "https://www.geo.tv/latest/422803-amber-heards-interview-adds-to-her-worries",
+      "urlToImage": "https://www.geo.tv/assets/uploads/updates/2022-06-16/422803_111241_updates.jpg",
+      "publishedAt": "2022-06-16T18:12:00Z",
+      "content": "Amber Heard has talked about her experience in an interview after losing defamation trial against Johnny Depp, saying majority of this was played out on social media.\r\nThe 36-year-old actress, during… [+998 chars]"
+      },
+      {
+      "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+      },
+      "author": "Kimberly Leonard",
+      "title": "DeSantis defends Florida opposition to vaccines for kids under 5 - Business Insider",
+      "description": "Florida is the only state that hasn't pre-ordered COVID-19 vaccines for children under 5, and they could start to go out as soon as next week.",
+      "url": "https://www.businessinsider.com/desantis-defends-florida-opposition-to-vaccines-for-kids-under-5-2022-6",
+      "urlToImage": "https://i.insider.com/62ab66ec1c7744001959b22c?width=1200&format=jpeg",
+      "publishedAt": "2022-06-16T18:10:29Z",
+      "content": "MIAMI Florida Gov. Ron DeSantis confirmed Thursday that the state would not be ordering COVID-19 vaccines for young children after a Food and Drug Administration panel unanimously endorsed the Pfizer… [+5085 chars]"
+      },
+      {
+      "source": {
+      "id": "google-news",
+      "name": "Google News"
+      },
+      "author": null,
+      "title": "Musk Says He Wants One Billion Users on Twitter - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyMi8wNi8xNi90ZWNobm9sb2d5L2Vsb24tbXVzay10d2l0dGVyLW1lZXRpbmfSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-06-16T18:08:33Z",
+      "content": null
+      },
+      {
+      "source": {
+      "id": null,
+      "name": "HuffPost"
+      },
+      "author": "Elyse Wanshel",
+      "title": "Kelly Clarkson Responds to Britney Spears’ Criticism By Covering ‘Womanizer’ - HuffPost",
+      "description": "The “Gimme More” singer recently called out Clarkson for an insensitive comment in a 2008 radio interview in which hosts mocked Spears’ mental health.",
+      "url": "https://www.huffpost.com/entry/kelly-clarkson-britney-spears-womanizer_n_62ab3cdde4b0cdccbe5a73ac",
+      "urlToImage": "https://img.huffingtonpost.com/asset/62ab6083250000431f473d3d.jpg?ops=1778_1000",
+      "publishedAt": "2022-06-16T17:43:58Z",
+      "content": "Kelly Clarkson performed a cover of Britney Spears 2008 single Womanizer during the Kellyoke segment on her talk show Wednesday.\r\nKelly Clarkson seems to have nothing but love for Britney Spears.\r\nTh… [+2705 chars]"
+      },
+      {
+      "source": {
+      "id": null,
+      "name": "WBAL TV Baltimore"
+      },
+      "author": null,
+      "title": "MDH identifies presumed human monkeypox virus infection in Maryland resident - WBAL TV Baltimore",
+      "description": "A presumed human monkeypox virus infection has been identified in a Maryland resident, state health officials said Thursday.",
+      "url": "https://www.wbaltv.com/article/presumed-human-monkeypox-virus-case-maryland/40312694",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/3713804-wbal-monkeypox-1-1655401089.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2022-06-16T17:40:00Z",
+      "content": "BALTIMORE —A presumed human monkeypox virus infection has been identified in a Maryland resident, state health officials said Thursday.\r\nVideo above: U.S. distributing monkeypox vaccine to high-risk … [+2755 chars]"
+      },
+      {
+      "source": {
+      "id": "cnn",
+      "name": "CNN"
+      },
+      "author": "Elizabeth Wolfe, Jason Hanna, Claudia Dominguez",
+      "title": "Parts of Yellowstone may reopen to tourists on Monday, but flooding has been a disaster for neighboring towns - CNN",
+      "description": "Yellowstone National Park could partially reopen as early as Monday as officials continue to assess the damage caused by historic flooding, which now threatens to hamper the peak of the summer tourist season.",
+      "url": "https://www.cnn.com/2022/06/16/weather/yellowstone-national-park-flooding-closed-thursday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220615192943-03-yellowstone-national-park-montana-flooding-wednesday.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-06-16T17:39:00Z",
+      "content": "Yellowstone National Park could partially reopen as early as Monday as officials continue to assess the damage caused by historic flooding, which now threatens to hamper the peak of the summer touris… [+7073 chars]"
+      },
+      {
+      "source": {
+      "id": null,
+      "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Priyanka Chopra Shares Glimpse of Her Daughter Malti Marie In Mom Madhu's Birthday Post - NDTV Movies",
+      "description": "\"Love you to the moon and back Nani,\" wrote Priyanka Chopra",
+      "url": "https://www.ndtv.com/entertainment/priyanka-chopra-shares-glimpse-of-her-daughter-malti-marie-in-mom-madhus-birthday-post-3074088",
+      "urlToImage": "https://c.ndtvimg.com/2022-06/7v2s8fa_priyanka_625x300_16_June_22.jpg",
+      "publishedAt": "2022-06-16T17:18:49Z",
+      "content": "Priyanka Chopra with daughter Malti Marie and mom Madhu. (courtesy: priyankachopra)\r\nPriyanka Chopra is celebrating her mother Madhu Chopra's birthday, and on this special occasion, she has shared an… [+2144 chars]"
+      },
+      {
+      "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+      },
+      "author": "Anders Hagstrom",
+      "title": "Exercise pill? Researchers identify molecule in blood produced during workout - Fox News",
+      "description": "Researchers at Stanford and Baylor say they have identified a molecule produced during exercise that can help regulate appetite and reduce obesity.",
+      "url": "https://www.foxnews.com/health/exercise-pill-researchers-identify-molecule-blood-produced-workout",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/Gym-Exercise.jpg",
+      "publishedAt": "2022-06-16T17:10:24Z",
+      "content": "Researchers at Baylor and Stanford Universities say they have reached an important step toward condensing some of the benefits of exercise into a simple pill.\r\nThe researchers, Baylor Professor of Pe… [+1819 chars]"
+      },
+      {
+      "source": {
+      "id": null,
+      "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "MLB Mock Draft 2022: Jackson Holliday, Druw Jones go 1-2; no pitcher taken until No. 13; Mets primed to spend - CBS Sports",
+      "description": "The MLB Draft is just about a month away; what player will your favorite team draft?",
+      "url": "https://www.cbssports.com/mlb/news/mlb-mock-draft-2022-jackson-holliday-druw-jones-go-1-2-no-pitcher-taken-until-no-13-mets-primed-to-spend/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/06/15/1e59ce12-d895-4d45-9737-09e01bf2de63/thumbnail/1200x675/a8cd3eb18430762ea7b9984d2fb86bed/mlb-draft-general-7.png",
+      "publishedAt": "2022-06-16T16:59:37Z",
+      "content": "The 2022 MLB Draft is a little more than four weeks away. Last year MLB pushed the draft back to the All-Star break in an effort to better market the event, and that will be the norm moving forward e… [+3857 chars]"
+      },
+      {
+      "source": {
+      "id": "google-news",
+      "name": "Google News"
+      },
+      "author": null,
+      "title": "Exxon Mobil, Chevron push back on Biden blaming industry for oil prices - The Hill",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovL3RoZWhpbGwuY29tL2J1c2luZXNzLWEtbG9iYnlpbmcvYnVzaW5lc3MtbG9iYnlpbmcvMzUyNjI5MC1leHhvbi1tb2JpbC1jaGV2cm9uLXB1c2gtYmFjay1vbi1iaWRlbi1ibGFtaW5nLWluZHVzdHJ5LWZvci1vaWwtcHJpY2VzL9IBjQFodHRwczovL3RoZWhpbGwuY29tL2J1c2luZXNzLWEtbG9iYnlpbmcvYnVzaW5lc3MtbG9iYnlpbmcvMzUyNjI5MC1leHhvbi1tb2JpbC1jaGV2cm9uLXB1c2gtYmFjay1vbi1iaWRlbi1ibGFtaW5nLWluZHVzdHJ5LWZvci1vaWwtcHJpY2VzL2FtcC8?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-06-16T16:57:00Z",
+      "content": null
+      },
+      {
+      "source": {
+      "id": null,
+      "name": "Telegraph.co.uk"
+      },
+      "author": null,
+      "title": "Live US Open Golf: Live updates from the first round at The Country Club, Brookline - The Telegraph",
+      "description": "After starting the day with two early bogeys, Zalatoris has played the rest of the course in three-under to move back into contention.",
+      "url": "https://www.telegraph.co.uk/golf/2022/06/16/us-open-2022-first-round-live-score-latest-updates-brookline/",
+      "urlToImage": "https://www.telegraph.co.uk/content/dam/golf/2022/06/16/TELEMMGLPICT000299868558_trans_NvBQzQNjv4BqRLU6RByDcehJVbJAoDuCGSfEV3CM26dQGAXDBk_TJAA.jpeg?impolicy=logo-overlay",
+      "publishedAt": "2022-06-16T16:43:09Z",
+      "content": "Starting at hole one:\r\n12:18 Collin Morikawa (US), James Piot (US), Jon Rahm (Spa)\r\n12:29 Jordan Spieth (US), Adam Scott (Aus), Max Homa (US)\r\n1:02 Joaquin Niemann (Chi), Cameron Young (US), Will Zal… [+567 chars]"
+      },
+      {
+      "source": {
+      "id": null,
+      "name": "New York Post"
+      },
+      "author": "Amanda Woods, Tina Moore",
+      "title": "Subway horror: Man dies after clothing gets stuck in train doors - New York Post ",
+      "description": "A Brooklyn straphanger was killed after his clothes got stuck in a train door and he slipped onto the tracks, authorities say.",
+      "url": "https://nypost.com/2022/06/16/man-dies-after-clothing-gets-stuck-in-subway-doors/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/06/avenue-m-q-subway.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2022-06-16T16:05:14Z",
+      "content": "A Brooklyn straphanger was killed when his clothes got stuck in a train door and he slipped onto the tracks, authorities say. \r\nThe victim, identified by authorities as 37-year-old Marcus Bryant, was… [+364 chars]"
+      },
+      {
+      "source": {
+      "id": null,
+      "name": "CNBC"
+      },
+      "author": "Holly Ellyatt",
+      "title": "European leaders visit Kyiv for talks on weapons, EU membership; UK announces new sanctions on Russia - CNBC",
+      "description": "A trio of European leaders has arrived in Kyiv for talks while Russian forces are using \"all available firepower\" to pound the key target of Severodonetsk.",
+      "url": "https://www.cnbc.com/2022/06/16/russia-ukraine-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107076919-16553872072022-06-16t134114z_2037651866_rc2xsu9dxyel_rtrmadp_0_ukraine-crisis-eu-leaders.jpeg?v=1655387233&w=1920&h=1080",
+      "publishedAt": "2022-06-16T16:01:00Z",
+      "content": "Ukrainian President Volodymyr Zelenskyy has said he is grateful for a new $1 billion support package including coastal defense, artillery and modern rocket systems as Russia presses home its advantag… [+920 chars]"
+      },
+      {
+      "source": {
+      "id": null,
+      "name": "YouTube"
+      },
+      "author": null,
+      "title": "WHO Officials Say Monkeypox Outbreak Is 'Real Risk' To Public Health - NBC News",
+      "description": "World Health Organization officials say that if the monkeypox outbreak continues, the virus will get stronger in Europe, Australia and North America. As the ...",
+      "url": "https://www.youtube.com/watch?v=xiVT78lr6pY",
+      "urlToImage": "https://i.ytimg.com/vi/xiVT78lr6pY/hqdefault.jpg",
+      "publishedAt": "2022-06-16T15:30:12Z",
+      "content": null
+      }
+      ]
 
   
 
